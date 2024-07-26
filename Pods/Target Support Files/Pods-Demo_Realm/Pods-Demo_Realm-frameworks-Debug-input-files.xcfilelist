@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Demo_Realm/Pods-Demo_Realm-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
